@@ -1,0 +1,12 @@
+{
+  "YopERC1155Mock": {
+    "address": "0x24d1Caaf83AD4B680dcB621D10Ed320315938059",
+    "contractParams": [1000],
+    "proxy": false
+  },
+  "yopTokenMock": {
+    "address": "0x7D02B6121ACDD46a564542b5f1867208Fd6f3CaD",
+    "contractParams": ["YOP", "YOP"],
+    "proxy": false
+  }
+}

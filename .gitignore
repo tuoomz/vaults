@@ -1,0 +1,19 @@
+#Hardhat files
+.localDev
+abi
+artifacts
+cache
+typechain
+types
+bin
+node_modules
+build
+.vscode
+.history
+.env
+coverage
+coverage.json
+.openzeppelin/unknown*
+deployments/hardhat.json
+deployments/localhost.json
+deployments/dev.json
